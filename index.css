@@ -3,8 +3,8 @@ body{
     border-style: solid;
 }
 h1{
-    background-color:yellow;
-    color:red;
+    background-color:rgba(0, 255, 149, 0.384);
+    color:rgb(255, 102, 0);
     text-align:center;
 }
 .images{
