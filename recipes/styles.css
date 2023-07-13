@@ -5,3 +5,7 @@ body{
 .main h1, h2{
     text-align: center;
 }
+.burgerImage, .cookieImage, .halwaImage{
+    height: auto;
+    width: 300px;
+}
