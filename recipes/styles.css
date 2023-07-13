@@ -2,6 +2,6 @@ body{
     background-color: rgb(252, 246, 239);
     border-style: solid;
 }
-h1, h2{
+.main h1, h2{
     text-align: center;
 }
