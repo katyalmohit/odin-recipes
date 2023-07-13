@@ -10,6 +10,7 @@ body{
     width:300px;
     border-style:groove;
     border-color:darkblue;
+    margin-left:1rem;
 }
 .halwa1, .halwa2{
     height:300px;
