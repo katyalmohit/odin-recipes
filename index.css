@@ -6,6 +6,8 @@ h1{
     background-color:rgba(0, 255, 149, 0.384);
     color:rgb(255, 102, 0);
     width:50%;
+    margin-left:auto;
+    margin-right:auto;
     text-align:center;
     font-size: 32px;
     font-family:Inter,"Helvetica Neue",Helvetica,Arial,sans-serif;
