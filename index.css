@@ -21,6 +21,7 @@ h1{
     border-style:groove;
     border-color:darkblue;
     margin-left: 1.5rem;
+    border-radius:15px;
 }
 
 ul li a{
