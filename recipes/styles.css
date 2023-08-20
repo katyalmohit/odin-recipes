@@ -70,3 +70,10 @@ h3{
     color:black;
     border-radius:10px;
 }
+.desc{
+    background-color:coral;
+    width:15%;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:15px;
+}
