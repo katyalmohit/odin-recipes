@@ -33,3 +33,7 @@ ul li a{
     padding: 0 10px;
     border-radius: 10px;
 }
+ul li a:hover{
+    background-color: brown;
+    color: white;
+}
