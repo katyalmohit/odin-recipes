@@ -30,3 +30,11 @@ h1{
 .halwa1, .halwa2{
     height:300px;
 }
+p{
+    border: 1px solid black;
+    margin-left:100px;
+    margin-right:100px;
+    padding: 10px;
+    background-color: darksalmon;
+    border-radius:15px;
+}
