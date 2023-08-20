@@ -62,6 +62,7 @@ h3{
     margin-left:auto;
     margin-right:auto;
     background-color:yellow;
+    border-radius:15px;
 }
 .return{
     background-color: rgb(126, 223, 101);
