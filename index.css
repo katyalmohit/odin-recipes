@@ -30,4 +30,5 @@ ul li a{
     color: black;
     background-color:orange;
     line-height:150%;
+    padding: 0 10px;
 }
