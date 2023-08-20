@@ -38,3 +38,22 @@ p{
     background-color: darksalmon;
     border-radius:15px;
 }
+
+.ingred,
+.steps{
+    display:inline-block;
+    border-radius:15px;
+}
+.ingred{
+    width:20%;
+    margin-left:10%;
+    background-color:bisque;
+}
+
+.steps{
+    width:50%;
+    float:right;
+    margin-right:10%;
+    background-color:bisque;
+    
+}
