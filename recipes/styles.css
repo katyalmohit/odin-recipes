@@ -23,6 +23,7 @@ h1{
     height:auto;
     width:300px;
     border-style:groove;
+    border-radius:15px;
     border-color:darkblue;
     margin-left:1rem;
 }
